@@ -1,0 +1,21 @@
+{
+  "name": "adapt-try",
+  "description": "hello world",
+  "main": "adapt-try/js/helloworld.js",
+  "keywords": [
+    "adapt-component"
+  ],
+  "authors": [
+    "reet"
+  ],
+  "license": "GPLv3",
+  "homepage": "adapt-try",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
